@@ -1,0 +1,8 @@
+{
+  "name": "Sumedha Tech Infra - IT Service Manager",
+  "description": "Sumedha Tech Infra IT Service Manager - Enterprise IT infrastructure service dashboard, service tickets, technician dispatch, equipment tracking, and billing management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
